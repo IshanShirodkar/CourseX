@@ -20,11 +20,11 @@ function Signin() {
                 </Typography>
             </div>
         <div style={{display: "flex", justifyContent: "center"}}>
-            <Card varint={"outlined"} style={{width: 400, padding: 20}}>
+            <Card variant={"outlined"} style={{width: 400, padding: 20}}>
                 <TextField
-                    onChange={(evant11) => {
-                        let elemt = evant11.target;
-                        setEmail(elemt.value);
+                    onChange={(event) => {
+                        let element = event.target;
+                        setEmail(element.value);
                     }}
                     fullWidth={true}
                     label="Email"
