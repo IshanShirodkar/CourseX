@@ -10,13 +10,19 @@ CourseX is an advanced online course selling application built using the MERN (M
     Administrators can create accounts with their unique credentials.
     Admin login is separated from the user login, ensuring security and distinct access levels.
 
+   ![screenshot1](https://github.com/IshanShirodkar/CourseX/blob/main/Screenshots/Screenshot%202023-11-05%20110910.png?raw=true)
    
 -  Course Management:
     Admins can efficiently create new courses, providing essential course information such as titles, descriptions, and course content.
-    Existing courses can be edited or removed as needed.
+   ![screeenshot2](https://github.com/IshanShirodkar/CourseX/blob/main/Screenshots/Screenshot%202023-11-05%20120437.png?raw=true)
    
 -  Course Publication:
     Admins have the ability to publish or unpublish courses, making them visible or hidden to users as required.
+   ![screenshot3](https://github.com/IshanShirodkar/CourseX/blob/main/Screenshots/Screenshot%202023-11-05%20150708.png?raw=true)
+
+-  Course Editing:
+    Admins can edit the details of already published courses and the updated course will be accessible to the user.
+   ![screenshot4](https://github.com/IshanShirodkar/CourseX/blob/main/Screenshots/Screenshot%202023-11-05%20150908.png?raw=true)
    
 
 ### User Features:
