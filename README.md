@@ -4,10 +4,26 @@ CourseX is an advanced online course selling application built using the MERN (M
 
 ## Features
 
+### Admin Features:
+
+-  Admin Registration and Login:
+    Administrators can create accounts with their unique credentials.
+    Admin login is separated from the user login, ensuring security and distinct access levels.
+
+   
+-  Course Management:
+    Admins can efficiently create new courses, providing essential course information such as titles, descriptions, and course content.
+    Existing courses can be edited or removed as needed.
+   
+-  Course Publication:
+    Admins have the ability to publish or unpublish courses, making them visible or hidden to users as required.
+   
+
 ### User Features:
 -  User Registration and Login:
      Users can easily create an account with a unique username and email.
      Existing users can securely log in using their credentials.
+     
     
 -  Course Catalog:
     Explore a diverse catalog of available courses.
@@ -19,20 +35,6 @@ CourseX is an advanced online course selling application built using the MERN (M
 -  Purchased Course Access:
     Access purchased courses at any time, allowing users to learn at their own pace.
     Course progress and completion tracking is available for learners to monitor their learning journey.
-   
-### Admin Features:
-
--  Admin Registration and Login:
-    Administrators can create accounts with their unique credentials.
-    Admin login is separated from the user login, ensuring security and distinct access levels.
-   
--  Course Management:
-    Admins can efficiently create new courses, providing essential course information such as titles, descriptions, and course content.
-    Existing courses can be edited or removed as needed.
-   
--  Course Publication:
-    Admins have the ability to publish or unpublish courses, making them visible or hidden to users as required.
-   
 
 ## Technologies Used: 
 
