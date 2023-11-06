@@ -64,7 +64,7 @@ CourseX is built using the following technologies:
 
 
 ## Contributing
-If you would like to contribute to Sorting Visualizer, please follow these steps:
+If you would like to contribute to CourseX, please follow these steps:
 
 Fork the repository
 
@@ -84,3 +84,7 @@ git push origin my-new-branch
 ```
 
 Create a new pull request
+
+
+## Feedback
+Any sort of feedback is greatly appreciated. Reach out to me at ishanshirodkar@gmail.com.
